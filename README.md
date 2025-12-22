@@ -1,5 +1,5 @@
 DE0_CV：燒入板子用   
-Program_Rom：可使用C++寫好功能後轉成組合語言，再用Vscode套件轉成機械碼  
+Program_Rom：可使用C++寫好功能後轉成組合語言，再用Vscode套件轉成機械碼(目前為遞迴計算10階層)  
 REG_FILE：暫存器   
 TOP：將所有module接線  
 clock_divider：clk燒入板子時除頻用  
