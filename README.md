@@ -5,3 +5,4 @@ TOP：將所有module接線
 clock_divider：clk燒入板子時除頻用  
 risc_v：大多數功能和主要module  
 seven_segment_display：七段顯示器燒入板子用
+<img width="698" height="509" alt="image" src="https://github.com/user-attachments/assets/baddb1cf-2f80-4a98-b6d7-0aa3e6a5fcce" />
